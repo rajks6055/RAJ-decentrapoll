@@ -1,0 +1,1 @@
+“I added logic to fetch whether the user has already voted for each poll using hasUserVoted contract function, passed this into the frontend poll state as poll.hasVoted, and used this to correctly show/hide vote buttons. Also ensured poll data reloads when user account changes.”
